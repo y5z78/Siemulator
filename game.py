@@ -1,3 +1,7 @@
+# I acknowledge the use of Gemini(https://gemini.google.com/app) to generate the initial lines 
+# of code in this game.py file and the README.md after which I modified some sections to my 
+# discretion.
+
 import tkinter as tk
 from tkinter import ttk, messagebox
 import time

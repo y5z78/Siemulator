@@ -1,3 +1,5 @@
+<!--I acknowledge the use of Gemini(https://gemini.google.com/app) to draft this README.md file after which I modified it to my discretion.-->
+
 # Log Analyst: Siemulator (GUI)
 
 **Repository Description:** A simple, interactive log analysis game focused on cybersecurity log review and **anomaly detection**. The program is built with **Python** and the **Tkinter** library.
